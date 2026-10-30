@@ -20,7 +20,7 @@
     "@types/turndown": "^5.0.5",
     "shx": "^0.4.0",
     "tsx": "^4.23.13",
-    "vite": "^8.3.0",
+    "vite": "^8.3.3",
     "vite-tsconfig-paths": "^6.1.1",
     "vitest": "^4.1.11"
   },
@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@karakeep/sdk": "workspace:*",
-    "@modelcontextprotocol/server": "^2.0.0",
+    "@modelcontextprotocol/server": "^2.3.0",
     "turndown": "^7.2.0",
     "zod": "^4.2.0"
   }
